@@ -1,0 +1,12 @@
+{
+  "name": "tabpilot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Search, dedupe, group and save your Chrome tabs, keyboard-first.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/",
+    "lint": "node scripts/lint.mjs"
+  },
+  "license": "MIT"
+}
